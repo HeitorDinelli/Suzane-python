@@ -1,3 +1,5 @@
+LABIRINTO
+
 ##Introdução
 
 O jogo Labirinto foi desenvolvido pelos alunos Heitor Dinelli, Rafael Duarte, Rhamses Schneider e Tobias Souza como parte da avaliação da disciplina de Programação Rápida em Python, ministrada pela professora Ms. Suzane Alfaia Dias, da Faculdade Estácio de Sá.
